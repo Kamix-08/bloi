@@ -1,5 +1,3 @@
-// 100
-
 #include <iostream>
 #include <string>
 
